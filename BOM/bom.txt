@@ -1,20 +1,10 @@
 部品名	入手先	
-
 Groveコネクター L型 スルーホール	https://akizukidenshi.com/catalog/g/g112634/	
-
 コネクター付コード 4P 黒赤白黄 Grove用ケーブル	https://akizukidenshi.com/catalog/g/g116938/	
-
 2mmピッチピンヘッダー 2×40 (80P)	https://akizukidenshi.com/catalog/g/g106075/	
-
 ピンヘッダー 1×40 (40P)	https://akizukidenshi.com/catalog/g/g100167/	
-
 つまみ付ジャンパーピン(黒)(2.54mmピッチ)	https://akizukidenshi.com/catalog/g/g103890/	(MCDL校正に使う)
-
 		
 ※ピンヘッダは折って使います		
-
 ※Groveコネクターはスルーホール用であればL型(SEEED-110990037)も普通の直立型(SEEED-110990030)も両方使えます		
-
 ※ケーブルはあまり長くしないことを推奨します		
-
-
