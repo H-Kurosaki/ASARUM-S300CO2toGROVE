@@ -1,6 +1,7 @@
 //for Arduino UNO or MEGA R3
 //S-300 I2C test program
 //s300i2c.h can get from https://github.com/mhorimoto/ELT_S300_HOLLY
+//If power is supplied via USB, use USB 3.0 or higher.
 #include "s300i2c.h"
 #include <Wire.h>
 S300I2C s3(Wire);
