@@ -30,3 +30,7 @@ MCDL校正を行う場合は10分間MCDLと書かれた部分のピンをジャ�
 ![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/brd.png)
 ![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/footprint.png)
 
+◯使用上の注意とライセンス
+本リポジトリでライセンスを設定可能なファイルにはMITライセンスを適用させていただきます。
+二次配布、商用利用も可能なデータとして配布しますが、本データを使用したことによって生じた結果については利用者が全ての責任を負うものとします。
+
