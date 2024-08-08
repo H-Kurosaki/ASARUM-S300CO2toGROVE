@@ -4,3 +4,6 @@ CO2センサS300に関連するリポジトリです
 
 
 ![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/sch.png)
+![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/brd.png)
+![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/footprint.png)
+
