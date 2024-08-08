@@ -1,5 +1,12 @@
 # ASARUM-S300CO2toGROVE
-CO2センサS300に関連するリポジトリです
+ELT社のCO2センサS-300をGroveコネクタに対応させる基板のデータを公開しています。
+
+公開しているデータの内容
+
+/GerberData  Grove化基板のガーバーデータ、FusionPCBのファイル名に準拠しています。
+/EagleLbr
+/EagleBoard
+
 ![boardall](https://github.com/user-attachments/assets/1e4d8153-3a55-433f-95e6-f165f9007631)
 
 
