@@ -8,7 +8,7 @@ ELT社のCO2センサS-300をGroveコネクタに対応させる基板のデー�
 /EagleBoard  Eagle形式のPCBデータ(GerberDataの元データ)
 
 /EagleLbr    Eagle形式のライブラリS-300のフットプリント。背面のJ11,J12コネクタのみ配置してあります。おまけでK30のフットプリントも入っていますが検証していません。
-https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/tree/main/GerberData
+/tree/main/GerberData
 
 ![boardall](https://github.com/user-attachments/assets/1e4d8153-3a55-433f-95e6-f165f9007631)
 
