@@ -27,6 +27,8 @@ S-300の裏側の2mmピッチコネクタを使用するので基板から簡単
 MCDL校正を行う場合は10分間MCDLと書かれた部分のピンをジャンパーで短絡してください。
 その他I2C以外のピンもよく使いそうなものはピンヘッダに出ています。
 
+基板の穴の間隔は3.5mmピッチですがこれは未来工業社のウォルボックスWB-DMなどの穴の位置に合わせてあります。
+
 ![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/sch.png)
 ![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/brd.png)
 ![image](https://github.com/H-Kurosaki/ASARUM-S300CO2toGROVE/blob/main/footprint.png)
