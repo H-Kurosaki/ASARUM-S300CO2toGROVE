@@ -3,13 +3,17 @@ ELT社のCO2センサS-300をGroveコネクタに対応させる基板のデー�
 
 公開しているデータの内容
 
-/main/GerberData  Grove化基板のガーバーデータ、FusionPCBのファイル名に準拠しています。このフォルダの内容をzipに圧縮すればそのまま発注に使えます。
+/main/GerberData
+Grove化基板のガーバーデータ、FusionPCBのファイル名に準拠しています。このフォルダの内容をzipに圧縮すればそのまま発注に使えます。
 
-/main/EagleBoard  Eagle形式のPCBデータ(GerberDataの元データ)
+/main/EagleBoard
+Eagle形式のPCBデータ(GerberDataの元データ)
 
-/main/EagleLbr    Eagle形式のライブラリS-300のフットプリント。背面のJ11,J12コネクタのみ配置してあります。おまけでK30のフットプリントも入っていますが検証していません。
+/main/EagleLbr
+Eagle形式のライブラリS-300のフットプリント。背面のJ11,J12コネクタのみ配置してあります。おまけでK30のフットプリントも入っていますが検証していません。
 
-/main/BOM         実装部品表  
+/main/BOM
+実装部品表  
 
 ![boardall](https://github.com/user-attachments/assets/1e4d8153-3a55-433f-95e6-f165f9007631)
 
